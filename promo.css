@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+}
+.standard{
+   background-image: url(https://wallpaperaccess.com/full/673286.jpg);
+   background-size: cover;
+   background-repeat: no-repeat; 
+}
+.tg{
+    background-color:rgb(80, 65, 65);
+}
+.number{
+    font-weight: bold;
+    font-size: 1rem;
+    font-family: sans-serif;
+    border: solid white;
+    border-style: dotted;
+}
+.bg{
+    background-color: darkblue;
+}
+.form{
+    background-color:white; 
+    width: auto;
+    border-radius: 5px;
+    border-bottom: 5px solid blue;
+}
+.mg{
+    font-weight: bold;
+    font-family: sans-serif;  
+}
+.fivetag{
+    padding: 25px;
+    background-color: rgb(204, 195, 183);
+}
+.img{
+    width: 30px;
+}
+.para{
+    color: black;
+    font-weight: bold;
+}
+.hr{
+    background-color: red;
+}
+.pen{
+    border-radius: 20px;
+    padding: 5px;
+    border-color: blue;
+    border-width: 3px;
+    border-style: dashed;
+}
+.right{
+    color: black;
+    font-weight: bold;
+}
+/*.pencil{
+    width: 20vw;
+   height: 63%;
+}*/
+.amaze{
+    background-color: rgb(233, 223, 223);
+}
+.abs{
+    background-color: rgb(204, 202, 190);
+}
+.set{
+    width: 60px;
+}
+.full{ 
+    background-image: url(https://wallpapercave.com/wp/wp3349336.jpg);
+    background-position: center;
+    max-height: 91vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/*.img{
+    width: 100vw;
+    background-image: url(tv.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+}*/
+.wood{
+    background-image: url(https://images.unsplash.com/photo-1525947088131-b701cd0f6dc3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80);
+    background-position: center;
+    min-height: 5vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+/*.our{
+    background-color: whitesmoke;
+}*/
+.f2{
+    background-color: darkmagenta;
+}
+.mg{
+    background-image: url(https://wallpaperaccess.com/full/1556608.jpg);
+    background-size: cover;
+}
+.pro{
+    background-color: black;
+}
+.smash{
+    background-color: rgb(231, 219, 219);
+}
+.server{
+    background-color: rgba(17, 15, 131, 0.918);
+}
+.fb{
+    background-color: rgb(221, 221, 203);
+}
+.bl{
+    background-color: black;
+}
